@@ -1,0 +1,20 @@
+{
+  "title": "Sample Lesson with Missing Text",
+  "questions": [
+    {
+      "answers": [
+        {"text": "Option A", "is_correct": true},
+        {"text": "Option B", "is_correct": false},
+        {"text": "Option C", "is_correct": false}
+      ]
+    },
+    {
+      "text": "What is the capital of Spain?",
+      "answers": [
+        {"text": "Madrid", "is_correct": true},
+        {"text": "Paris", "is_correct": false},
+        {"text": "Rome", "is_correct": false}
+      ]
+    }
+  ]
+}

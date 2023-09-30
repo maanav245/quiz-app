@@ -1,0 +1,50 @@
+{
+  "title": "Extended Sample Lesson",
+  "questions": [
+    {
+      "text": "What is the capital of Australia?",
+      "answers": [
+        {"text": "Canberra", "is_correct": true},
+        {"text": "Sydney", "is_correct": false},
+        {"text": "Melbourne", "is_correct": false},
+        {"text": "Perth", "is_correct": false}
+      ]
+    },
+    {
+      "text": "Who was the first President of the United States?",
+      "answers": [
+        {"text": "Thomas Jefferson", "is_correct": false},
+        {"text": "George Washington", "is_correct": true},
+        {"text": "John Adams", "is_correct": false},
+        {"text": "Benjamin Franklin", "is_correct": false}
+      ]
+    },
+    {
+      "text": "Which planet is known as the 'Red Planet'?",
+      "answers": [
+        {"text": "Venus", "is_correct": false},
+        {"text": "Mars", "is_correct": true},
+        {"text": "Jupiter", "is_correct": false},
+        {"text": "Saturn", "is_correct": false}
+      ]
+    },
+    {
+      "text": "Who wrote the novel 'Pride and Prejudice'?",
+      "answers": [
+        {"text": "Charlotte Brontë", "is_correct": false},
+        {"text": "Jane Austen", "is_correct": true},
+        {"text": "Emily Dickinson", "is_correct": false},
+        {"text": "Louisa May Alcott", "is_correct": false}
+      ]
+    },
+    {
+      "text": "What is the tallest mountain in the world?",
+      "answers": [
+        {"text": "K2", "is_correct": false},
+        {"text": "Mount Kilimanjaro", "is_correct": false},
+        {"text": "Mount Everest", "is_correct": true},
+        {"text": "Mount Fuji", "is_correct": false}
+      ]
+    }
+  ]
+}

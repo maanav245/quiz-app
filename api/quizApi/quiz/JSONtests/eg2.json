@@ -1,0 +1,21 @@
+{
+  "title": "Sample Lesson",
+  "questions": [
+    {
+      "text": "What is 2 + 2?",
+      "answers": [
+        {"text": "3", "is_correct": false},
+        {"text": "4", "is_correct": true},
+        {"text": "5", "is_correct": false}
+      ]
+    },
+    {
+      "text": "What is the capital of France?",
+      "answers": [
+        {"text": "Berlin", "is_correct": false},
+        {"text": "London", "is_correct": false},
+        {"text": "Paris", "is_correct": true}
+      ]
+    }
+  ]
+}
